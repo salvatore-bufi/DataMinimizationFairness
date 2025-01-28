@@ -74,7 +74,7 @@ Furthermore, we provide a description of how the experiments have been configure
 
 ### Reproduce Paper Results
 
-[Here](run.py) you can find a ready-to-run Python file with all the pre-configured experiments cited in our paper.
+[Here](run_experiments.py) you can find a ready-to-run Python file with all the pre-configured experiments cited in our paper.
 You can easily run them with the following command:
 
 ```
