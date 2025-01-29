@@ -81,7 +81,8 @@ You can easily run them with the following command:
 python run_experiments.py
 ```
 
-It runs the minimization strategies and then trains  all the baselines on two different datasets.
+It reproduces all experimental results from our paper. The script implements all baseline models across both datasets, testing each minimization strategy and interaction number combination.
 The results will be stored in the folder ```results/[DATASET]_[MINIMIZATION_STRATEGY]_[n]```.
+
 
 
